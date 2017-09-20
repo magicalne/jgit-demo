@@ -25,7 +25,7 @@ import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
 /**
- * Author: zehui.lv@dianrong on 4/27/17.
+ * Author: zehui.lv on 4/27/17.
  */
 @RestController
 public class JgitController {

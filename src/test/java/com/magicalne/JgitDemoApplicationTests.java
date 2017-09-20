@@ -1,4 +1,4 @@
-package com.dianrong;
+package com.magicalne;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
