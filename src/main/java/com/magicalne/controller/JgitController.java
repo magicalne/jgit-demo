@@ -1,4 +1,4 @@
-package com.dianrong.controller;
+package com.magicalne.controller;
 
 import org.eclipse.jgit.api.Git;
 import org.eclipse.jgit.api.errors.GitAPIException;
